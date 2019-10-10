@@ -1,5 +1,6 @@
-# nerdyduck.github.io
+# NerdyDuck Project Documentation Site Links
 
-This serves as a repository for all online documentation related to NerdyDuck projects.
+Click a link below to view the online help for the project:
 
-To view all available online help, [click here](http://NerdyDuck.GitHub.io/index.html).
+### Libraries
+- [NerdyDuck.CodedExceptions Library Documentation](/CodedExceptions/index.html)
