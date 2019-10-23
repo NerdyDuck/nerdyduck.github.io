@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Home" Url="html/a51907b2-e4ee-453d-b3bc-3c2e2d93d14a.htm" />
+  <HelpTOCNode Title="Introduction" Url="html/02c4e1ea-2e9e-4ea4-9d92-5c6ed1e49749.htm" />
+  <HelpTOCNode Title="Platforms &amp; Packages" Url="html/4b8fe72d-5b97-4913-9d0a-52a61dac0e84.htm" />
+  <HelpTOCNode Title="How To Use" Url="html/78b89633-6458-4b2e-8e9f-7351d7962e35.htm" />
+  <HelpTOCNode Title="Contribute" Url="html/4a6b0dac-3853-4211-a81f-ad0b740e1b3f.htm" />
+  <HelpTOCNode Id="41756b47-14b4-4104-8ccf-71b23fd5e22c" Title="Version History" Url="html/e66825f5-f0ae-41c6-9868-efa1f835ec66.htm">
+    <HelpTOCNode Id="cc372856-2395-4f0d-a22b-c00a0206aaa2" Title="NerdyDuck.CodedExceptions">
+      <HelpTOCNode Title="Version 2.0.0" Url="html/259c6411-b4b5-445a-8994-01e9d01b3430.htm" />
+      <HelpTOCNode Title="Version 1.3.1" Url="html/0644f1eb-d669-4da1-9e3a-011694d9d9bd.htm" />
+      <HelpTOCNode Title="Version 1.3.0" Url="html/a0f6da6a-bd73-43ef-96a8-8edb5d6abc57.htm" />
+      <HelpTOCNode Title="Version 1.2.1" Url="html/2c32ffdc-9c04-46f7-8089-879aaaec49c0.htm" />
+      <HelpTOCNode Title="Version 1.2.0" Url="html/863d99b3-87f9-4b23-839e-2920d27fd1e2.htm" />
+      <HelpTOCNode Title="Version 1.1.2" Url="html/daa452b1-17a3-4d2d-84ec-af3ca09f1373.htm" />
+      <HelpTOCNode Title="Version 1.1.1" Url="html/1837257e-2f48-4586-8ef9-6c3d7f5892b0.htm" />
+      <HelpTOCNode Title="Version 1.1.0" Url="html/11370884-5f6a-47df-9b94-6cac5a1e0cb4.htm" />
+      <HelpTOCNode Title="Version 1.0.3" Url="html/2d45a25e-8710-470c-9715-50a111064f7a.htm" />
+      <HelpTOCNode Title="Version 1.0.2" Url="html/6e6eae4c-e3bd-46ba-8ef1-7db33522a4f5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a468146-fdf5-49f1-87da-e40d978c3c7e" Title="NerdyDuck.CodedExceptions.Configuration">
+      <HelpTOCNode Title="v2.0.0" Url="html/cb866632-070c-4e0b-9ccf-691d57c3137e.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c2d8417f-e3e0-4c01-99d1-c45e6e93ba10" Title="NerdyDuck.CodedExceptions" Url="html/21622989.htm">
+    <HelpTOCNode Id="fbb20c0e-ef29-4ee5-a90a-5890af4e8104" Title="AssemblyFacilityIdentifierAttribute Class" Url="html/4D56FFE5.htm">
+      <HelpTOCNode Title="AssemblyFacilityIdentifierAttribute Constructor " Url="html/D791698F.htm" />
+      <HelpTOCNode Id="ff70adaa-0c76-40f9-8cd4-ddcfab1a15c9" Title="AssemblyFacilityIdentifierAttribute Properties" Url="html/FC318125.htm">
+        <HelpTOCNode Title="FacilityId Property " Url="html/43E85B8F.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0b50a6c1-fa93-48b2-9abc-dae0d975c1f3" Title="AssemblyFacilityIdentifierAttribute Methods" Url="html/1EC32B50.htm">
+        <HelpTOCNode Title="FromAssembly Method " Url="html/1BEEF453.htm" />
+        <HelpTOCNode Title="FromType Method " Url="html/60CC030D.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="80a5fbdc-b7c2-4be7-8dfb-1d70c54bd073" Title="CodedAggregateException Class" Url="html/C6B92CA4.htm">
+      <HelpTOCNode Id="58b58b2c-2e9a-469f-9697-bf5142ef56b9" Title="CodedAggregateException Constructor " Url="html/4F754D58.htm">
+        <HelpTOCNode Title="CodedAggregateException Constructor " Url="html/AE3A768A.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (IEnumerable(Exception))" Url="html/CB3F8A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Exception[])" Url="html/B335E82D.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32)" Url="html/108E7392.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (String)" Url="html/62CA8A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, IEnumerable(Exception))" Url="html/F884D163.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, Exception[])" Url="html/55DD5CC8.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, String)" Url="html/3DD3BA99.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (SerializationInfo, StreamingContext)" Url="html/EE2F8A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (String, IEnumerable(Exception))" Url="html/D7658A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (String, Exception)" Url="html/4C008A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (String, Exception[])" Url="html/C09B8A5C.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, String, IEnumerable(Exception))" Url="html/9B2C45FE.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, String, Exception)" Url="html/8322A3CF.htm" />
+        <HelpTOCNode Title="CodedAggregateException Constructor (Int32, String, Exception[])" Url="html/E07B2F34.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedAggregateException Properties" Url="html/B5FF649E.htm" />
+      <HelpTOCNode Id="357ba797-6ab0-43b0-b95f-e76a631b3435" Title="CodedAggregateException Methods" Url="html/8A223037.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/90F8BD45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedAggregateException Events" Url="html/EE10119C.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5feee46-d22a-494e-b570-1d9f7fda3904" Title="CodedArgumentException Class" Url="html/6C3A992D.htm">
+      <HelpTOCNode Id="a018d3c1-9da8-4b03-8474-1bf2b0932881" Title="CodedArgumentException Constructor " Url="html/AB9DF3A3.htm">
+        <HelpTOCNode Title="CodedArgumentException Constructor " Url="html/7B2B5BF5.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (Int32)" Url="html/7DA875FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (String)" Url="html/7DAE75FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (Int32, String)" Url="html/7DA975FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (SerializationInfo, StreamingContext)" Url="html/7DAD75FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (String, Exception)" Url="html/7DAF75FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (String, String)" Url="html/7DB075FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (Int32, String, Exception)" Url="html/7DAA75FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (Int32, String, String)" Url="html/7DAB75FC.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (String, String, Exception)" Url="html/F0278506.htm" />
+        <HelpTOCNode Title="CodedArgumentException Constructor (Int32, String, String, Exception)" Url="html/7DAC75FC.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentException Properties" Url="html/3953B9A4.htm" />
+      <HelpTOCNode Id="a0c8d7e5-2b09-4424-b442-bf0827628a52" Title="CodedArgumentException Methods" Url="html/3FA3FFB7.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/BBF8E17B.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentException Events" Url="html/1A3D3123.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="298b35dd-b66f-4ef9-96dd-adb795a27998" Title="CodedArgumentNullException Class" Url="html/D1BC8882.htm">
+      <HelpTOCNode Id="f17e3b89-d975-4243-bda1-25e434236e2b" Title="CodedArgumentNullException Constructor " Url="html/E345C8CC.htm">
+        <HelpTOCNode Title="CodedArgumentNullException Constructor " Url="html/88C0516A.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (Int32)" Url="html/62A5B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (String)" Url="html/62A6B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (Int32, String)" Url="html/62A2B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (SerializationInfo, StreamingContext)" Url="html/62A9B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (String, Exception)" Url="html/62A7B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (String, String)" Url="html/62ACB1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (Int32, String, Exception)" Url="html/62A3B1E5.htm" />
+        <HelpTOCNode Title="CodedArgumentNullException Constructor (Int32, String, String)" Url="html/62A8B1E5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullException Properties" Url="html/E5DB60C9.htm" />
+      <HelpTOCNode Id="ed172ef8-4d7c-4a7e-ab05-cdf893a2e39e" Title="CodedArgumentNullException Methods" Url="html/19CE10C8.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/957B289C.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullException Events" Url="html/762882AE.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0b0e7f32-5de5-47d3-912c-b2bc553f9f51" Title="CodedArgumentNullOrEmptyException Class" Url="html/BEA1A75.htm">
+      <HelpTOCNode Id="93f525a2-3c57-45af-852e-b7b468577bfa" Title="CodedArgumentNullOrEmptyException Constructor " Url="html/1ADF263.htm">
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor " Url="html/B4EB2652.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (Int32)" Url="html/E7743878.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (String)" Url="html/E7743873.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (Int32, String)" Url="html/E7743877.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (SerializationInfo, StreamingContext)" Url="html/E7743874.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (String, Exception)" Url="html/E7743872.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (String, String)" Url="html/E7743881.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (Int32, String, Exception)" Url="html/E7743876.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrEmptyException Constructor (Int32, String, String)" Url="html/E7743875.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullOrEmptyException Properties" Url="html/D6B1AB7B.htm" />
+      <HelpTOCNode Id="6ab4cc24-82eb-4817-b995-9085d9d5c929" Title="CodedArgumentNullOrEmptyException Methods" Url="html/F44D51E4.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/878898CD.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullOrEmptyException Events" Url="html/DA98D40F.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b308a80a-fca8-41e7-b1ae-39b4b490c307" Title="CodedArgumentNullOrWhiteSpaceException Class" Url="html/6B50408E.htm">
+      <HelpTOCNode Id="bc20eae9-ede0-4de0-95d2-ffb33af89503" Title="CodedArgumentNullOrWhiteSpaceException Constructor " Url="html/1B7288E2.htm">
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor " Url="html/FCD1CFED.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (Int32)" Url="html/62162BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (String)" Url="html/62132BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (Int32, String)" Url="html/62172BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (SerializationInfo, StreamingContext)" Url="html/62122BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (String, Exception)" Url="html/62142BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (String, String)" Url="html/620D2BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (Int32, String, Exception)" Url="html/62182BF9.htm" />
+        <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Constructor (Int32, String, String)" Url="html/62112BF9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Properties" Url="html/1918492F.htm" />
+      <HelpTOCNode Id="f11c5e0d-aea7-4562-8420-22d6df0fe3f8" Title="CodedArgumentNullOrWhiteSpaceException Methods" Url="html/86780524.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/40888756.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentNullOrWhiteSpaceException Events" Url="html/DC769223.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="244e8fed-08ea-4fd6-9280-1c0501bafa18" Title="CodedArgumentOutOfRangeException Class" Url="html/DF59B1A5.htm">
+      <HelpTOCNode Id="e48b7a23-d53e-4d49-8764-d1801ef195b9" Title="CodedArgumentOutOfRangeException Constructor " Url="html/ADD09D85.htm">
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor " Url="html/F2A7133E.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (Int32)" Url="html/7FCEF564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (String)" Url="html/3B70F564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (Int32, String)" Url="html/F469F564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (SerializationInfo, StreamingContext)" Url="html/C6D5F564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (String, Exception)" Url="html/B00BF564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (String, String)" Url="html/8C17D46A.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (Int32, String, Exception)" Url="html/6904F564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (Int32, String, String)" Url="html/523AF564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (String, Object, String)" Url="html/24A6F564.htm" />
+        <HelpTOCNode Title="CodedArgumentOutOfRangeException Constructor (Int32, String, Object, String)" Url="html/DD9FF564.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentOutOfRangeException Properties" Url="html/8C6238E0.htm" />
+      <HelpTOCNode Id="78072507-684d-47eb-ac68-1230044ca8b7" Title="CodedArgumentOutOfRangeException Methods" Url="html/56DFA011.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/7BF45399.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedArgumentOutOfRangeException Events" Url="html/ECEFACAA.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="46eb8573-0768-41e1-a843-eedb83a7702f" Title="CodedCommunicationException Class" Url="html/4DB725A2.htm">
+      <HelpTOCNode Id="d8fa737d-5bc9-4959-9b4b-3cb0e64a248c" Title="CodedCommunicationException Constructor " Url="html/E198EFA5.htm">
+        <HelpTOCNode Title="CodedCommunicationException Constructor " Url="html/A7FD503A.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (Int32)" Url="html/95E3EDB7.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (String)" Url="html/B461B4B.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (Int32, String)" Url="html/7DDA4B88.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (SerializationInfo, StreamingContext)" Url="html/ADED8FE6.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (String, Exception)" Url="html/F33C791C.htm" />
+        <HelpTOCNode Title="CodedCommunicationException Constructor (Int32, String, Exception)" Url="html/DB32D6ED.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedCommunicationException Properties" Url="html/4CECDD49.htm" />
+      <HelpTOCNode Title="CodedCommunicationException Methods" Url="html/82EACB03.htm" />
+      <HelpTOCNode Title="CodedCommunicationException Events" Url="html/CAAEAF12.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c51290c-d6c1-460c-8768-d4ab5cb6de81" Title="CodedDataException Class" Url="html/6302B905.htm">
+      <HelpTOCNode Id="8df9014c-cd92-47cb-9b5e-65dfcda5ee0b" Title="CodedDataException Constructor " Url="html/F6B482F6.htm">
+        <HelpTOCNode Title="CodedDataException Constructor " Url="html/2BF9D824.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (Int32)" Url="html/91EF4003.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (String)" Url="html/91EB4003.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (Int32, String)" Url="html/91F24003.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (SerializationInfo, StreamingContext)" Url="html/91EC4003.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (String, Exception)" Url="html/91EE4003.htm" />
+        <HelpTOCNode Title="CodedDataException Constructor (Int32, String, Exception)" Url="html/91F14003.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedDataException Properties" Url="html/5F2C6CF.htm" />
+      <HelpTOCNode Id="3d78610a-04a2-4417-ad6f-3c9ccc8acc46" Title="CodedDataException Methods" Url="html/FF86923C.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/3EBF4D89.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedDataException Events" Url="html/F1E88EDC.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="591d81e3-1191-442a-a451-c776fea64559" Title="CodedException Class" Url="html/1BE0BED3.htm">
+      <HelpTOCNode Id="595d67df-7ae7-4603-b1d2-69088b65d35b" Title="CodedException Constructor " Url="html/97B260BA.htm">
+        <HelpTOCNode Title="CodedException Constructor " Url="html/546841D9.htm" />
+        <HelpTOCNode Title="CodedException Constructor (Int32)" Url="html/247F6C81.htm" />
+        <HelpTOCNode Title="CodedException Constructor (String)" Url="html/24836C81.htm" />
+        <HelpTOCNode Title="CodedException Constructor (Int32, String)" Url="html/24826C81.htm" />
+        <HelpTOCNode Title="CodedException Constructor (SerializationInfo, StreamingContext)" Url="html/24846C81.htm" />
+        <HelpTOCNode Title="CodedException Constructor (String, Exception)" Url="html/24866C81.htm" />
+        <HelpTOCNode Title="CodedException Constructor (Int32, String, Exception)" Url="html/24816C81.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedException Properties" Url="html/E7810247.htm" />
+      <HelpTOCNode Id="c96299ff-2332-432c-9375-b1d258b45e66" Title="CodedException Methods" Url="html/64F573BD.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/AB1738C.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedException Events" Url="html/A1539D76.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce60e931-89c0-471b-b552-615c71ec7145" Title="CodedExceptionAttribute Class" Url="html/6655E511.htm">
+      <HelpTOCNode Title="CodedExceptionAttribute Constructor " Url="html/9DB51B19.htm" />
+      <HelpTOCNode Title="CodedExceptionAttribute Properties" Url="html/58985CD5.htm" />
+      <HelpTOCNode Id="326cc416-202b-4074-b297-709ff2974173" Title="CodedExceptionAttribute Methods" Url="html/7A07BBF8.htm">
+        <HelpTOCNode Title="IsCodedException Method " Url="html/6DC690BB.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5d4d9d7-d314-47df-bd21-3cec7dda61e8" Title="CodedFormatException Class" Url="html/FDF71FAC.htm">
+      <HelpTOCNode Id="ca5061ee-19f4-42c1-8c91-18570d5e3969" Title="CodedFormatException Constructor " Url="html/40ED2833.htm">
+        <HelpTOCNode Title="CodedFormatException Constructor " Url="html/392338C2.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (Int32)" Url="html/7DC7769C.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (String)" Url="html/AB5B769C.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (Int32, String)" Url="html/92C769C.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (SerializationInfo, StreamingContext)" Url="html/1FF6769C.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (String, Exception)" Url="html/36C0769C.htm" />
+        <HelpTOCNode Title="CodedFormatException Constructor (Int32, String, Exception)" Url="html/9491769C.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedFormatException Properties" Url="html/FB595178.htm" />
+      <HelpTOCNode Id="0be0c27e-316d-460f-b9e3-dd1249325516" Title="CodedFormatException Methods" Url="html/30A03D1E.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/35E5BFF6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedFormatException Events" Url="html/4FECAA2F.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="03a9d483-7e48-4631-b127-813c64bb38ed" Title="CodedInvalidCastException Class" Url="html/6DA125E7.htm">
+      <HelpTOCNode Id="8aa6321d-a705-4333-a771-2b95334d3d0e" Title="CodedInvalidCastException Constructor " Url="html/8E1A4ED0.htm">
+        <HelpTOCNode Title="CodedInvalidCastException Constructor " Url="html/46F2461F.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (Int32)" Url="html/F6E720F2.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (String)" Url="html/F6E720F6.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (Int32, String)" Url="html/F6E720F3.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (SerializationInfo, StreamingContext)" Url="html/F6E720F5.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (String, Exception)" Url="html/F6E720F7.htm" />
+        <HelpTOCNode Title="CodedInvalidCastException Constructor (Int32, String, Exception)" Url="html/F6E720F4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidCastException Properties" Url="html/A13F11D1.htm" />
+      <HelpTOCNode Id="d207715c-a8a9-4b21-8523-5050361c7d94" Title="CodedInvalidCastException Methods" Url="html/247954D.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/CC183D83.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidCastException Events" Url="html/1CD5AF7F.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="bee9e43b-c5fc-4a85-9fab-3f24157d4df9" Title="CodedInvalidOperationException Class" Url="html/E192522E.htm">
+      <HelpTOCNode Id="f6e148bb-b8a1-4767-ab7c-8b9c5f14769b" Title="CodedInvalidOperationException Constructor " Url="html/53565251.htm">
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor " Url="html/93919DAA.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (Int32)" Url="html/9FDC9699.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (String)" Url="html/9FD89699.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (Int32, String)" Url="html/9FDF9699.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (SerializationInfo, StreamingContext)" Url="html/9FD99699.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (String, Exception)" Url="html/9FDB9699.htm" />
+        <HelpTOCNode Title="CodedInvalidOperationException Constructor (Int32, String, Exception)" Url="html/9FDE9699.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidOperationException Properties" Url="html/9BE2537E.htm" />
+      <HelpTOCNode Id="bee36717-4450-4e13-a2a4-5bab48824702" Title="CodedInvalidOperationException Methods" Url="html/7A811D0.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/3DFFDE26.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidOperationException Events" Url="html/F1F73FB8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="90bc5a68-a936-4dfc-81c8-c11ba34648f2" Title="CodedNotSupportedException Class" Url="html/F0862952.htm">
+      <HelpTOCNode Id="b1d5671f-3ba4-4fad-b675-b849a79d074d" Title="CodedNotSupportedException Constructor " Url="html/C5B0B7BD.htm">
+        <HelpTOCNode Title="CodedNotSupportedException Constructor " Url="html/E36BC382.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (Int32)" Url="html/430A4F5B.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (String)" Url="html/43064F5B.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (Int32, String)" Url="html/430D4F5B.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (SerializationInfo, StreamingContext)" Url="html/43074F5B.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (String, Exception)" Url="html/43094F5B.htm" />
+        <HelpTOCNode Title="CodedNotSupportedException Constructor (Int32, String, Exception)" Url="html/430C4F5B.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedNotSupportedException Properties" Url="html/FF608B1B.htm" />
+      <HelpTOCNode Id="aec54181-e758-4be4-8cac-77f2e09adfae" Title="CodedNotSupportedException Methods" Url="html/68815034.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/E0FE5B78.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedNotSupportedException Events" Url="html/A3A2725.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ece9ab0a-d2ce-4356-a429-a6cb6e3b4b84" Title="CodedProtocolViolationException Class" Url="html/B6948A6B.htm">
+      <HelpTOCNode Id="9a5c9539-5da4-4f2e-bb22-887100177730" Title="CodedProtocolViolationException Constructor " Url="html/560D47EE.htm">
+        <HelpTOCNode Title="CodedProtocolViolationException Constructor " Url="html/58C25691.htm" />
+        <HelpTOCNode Title="CodedProtocolViolationException Constructor (Int32)" Url="html/AD671774.htm" />
+        <HelpTOCNode Title="CodedProtocolViolationException Constructor (String)" Url="html/C570B9A3.htm" />
+        <HelpTOCNode Title="CodedProtocolViolationException Constructor (Int32, String)" Url="html/955D7545.htm" />
+        <HelpTOCNode Title="CodedProtocolViolationException Constructor (SerializationInfo, StreamingContext)" Url="html/F2B600AA.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedProtocolViolationException Properties" Url="html/42B8DFAD.htm" />
+      <HelpTOCNode Id="69b1c91d-d654-460a-80a1-d459dc0756e9" Title="CodedProtocolViolationException Methods" Url="html/93D28817.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/7414EC25.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedProtocolViolationException Events" Url="html/AC3B0783.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e77c8fed-f0a8-4774-b3a9-561a42dd55fc" Title="CodedSerializationException Class" Url="html/86688F5E.htm">
+      <HelpTOCNode Id="b2cb23b2-0b4d-4a54-80fc-5817fd1606e6" Title="CodedSerializationException Constructor " Url="html/E9F9AB94.htm">
+        <HelpTOCNode Title="CodedSerializationException Constructor " Url="html/B1831FFE.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (Int32)" Url="html/A9AC5403.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (String)" Url="html/344A266F.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (Int32, String)" Url="html/C1B5F632.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (SerializationInfo, StreamingContext)" Url="html/91A2B1D4.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (String, Exception)" Url="html/4C53C89E.htm" />
+        <HelpTOCNode Title="CodedSerializationException Constructor (Int32, String, Exception)" Url="html/645D6ACD.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedSerializationException Properties" Url="html/7E29E327.htm" />
+      <HelpTOCNode Id="5850afa3-264c-4160-8f37-3ae780be9bba" Title="CodedSerializationException Methods" Url="html/B3F6CAE1.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/297086F6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedSerializationException Events" Url="html/C246CE8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6303a7e4-9ab5-404d-9be4-79b07c5d1688" Title="CodedSocketException Class" Url="html/C1E87991.htm">
+      <HelpTOCNode Id="483c29ea-89b7-40f3-9c27-90ef276256d8" Title="CodedSocketException Constructor " Url="html/5DE4EC33.htm">
+        <HelpTOCNode Title="CodedSocketException Constructor " Url="html/38A4C7DC.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32)" Url="html/AC5DE3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (SocketError)" Url="html/67FFE3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (String)" Url="html/467DA70B.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32, SocketError)" Url="html/A2EE3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32, String)" Url="html/7EC9E3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (SocketError, String)" Url="html/7C20E3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (SerializationInfo, StreamingContext)" Url="html/467DA70C.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (String, Exception)" Url="html/467DA70A.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32, SocketError, String)" Url="html/9593E3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32, String, Exception)" Url="html/DC9AE3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (SocketError, String, Exception)" Url="html/785E3E0.htm" />
+        <HelpTOCNode Title="CodedSocketException Constructor (Int32, SocketError, String, Exception)" Url="html/F364E3E0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b9bc1272-6cb6-4acd-97cd-45291752a636" Title="CodedSocketException Properties" Url="html/2A1AC897.htm">
+        <HelpTOCNode Title="SocketErrorCode Property " Url="html/8C493408.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="641de3cf-b7cf-4912-a189-c18294d64b11" Title="CodedSocketException Methods" Url="html/FC434697.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/A4F9B520.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/29F84781.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedSocketException Events" Url="html/E6372AD0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7547ba8a-66ef-4f3a-b588-4c69bcb9348f" Title="CodedTimeoutException Class" Url="html/8A43B31A.htm">
+      <HelpTOCNode Id="6b5e917d-63b2-415a-aee2-4a1394aaa470" Title="CodedTimeoutException Constructor " Url="html/E13A8055.htm">
+        <HelpTOCNode Title="CodedTimeoutException Constructor " Url="html/3B8F9404.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (Int32)" Url="html/80D69F9F.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (String)" Url="html/80D69F9B.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (Int32, String)" Url="html/80D69F9E.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (SerializationInfo, StreamingContext)" Url="html/80D69F9C.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (String, Exception)" Url="html/80D69F9A.htm" />
+        <HelpTOCNode Title="CodedTimeoutException Constructor (Int32, String, Exception)" Url="html/80D69F9D.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedTimeoutException Properties" Url="html/D44B5FD8.htm" />
+      <HelpTOCNode Id="b1b42507-6364-415f-9202-9e7f6241bc57" Title="CodedTimeoutException Methods" Url="html/D61CDDBC.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/73BFECAE.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedTimeoutException Events" Url="html/80BE5679.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="814d6756-9f57-4b82-95fa-3a0dba7003b2" Title="CodedTypeLoadException Class" Url="html/C4150A04.htm">
+      <HelpTOCNode Id="95fd364c-0f5e-4ac3-baf2-cfb34f8843cb" Title="CodedTypeLoadException Constructor " Url="html/96565701.htm">
+        <HelpTOCNode Title="CodedTypeLoadException Constructor " Url="html/38CD4E0A.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (Int32)" Url="html/AE68ACC5.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (String)" Url="html/AE6CACC5.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (Int32, String)" Url="html/AE69ACC5.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (SerializationInfo, StreamingContext)" Url="html/AE6BACC5.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (String, Exception)" Url="html/AE6DACC5.htm" />
+        <HelpTOCNode Title="CodedTypeLoadException Constructor (Int32, String, Exception)" Url="html/AE6AACC5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedTypeLoadException Properties" Url="html/91F17C19.htm" />
+      <HelpTOCNode Id="9807ee7d-da34-435e-9129-82d69b4cb1cf" Title="CodedTypeLoadException Methods" Url="html/23A02DB2.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/57C53C42.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedTypeLoadException Events" Url="html/79FDE64B.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="60c3913c-4c22-47dd-8127-a3ae41c56304" Title="CodedXmlException Class" Url="html/EF237D56.htm">
+      <HelpTOCNode Id="d715de80-f7cc-4ecd-a6d4-9adca42bf1d4" Title="CodedXmlException Constructor " Url="html/853EEEA8.htm">
+        <HelpTOCNode Title="CodedXmlException Constructor " Url="html/6A16E9A5.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (Int32)" Url="html/27DB0222.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (String)" Url="html/27DB0225.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (Int32, String)" Url="html/27DB0221.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (SerializationInfo, StreamingContext)" Url="html/27DB0226.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (String, Exception)" Url="html/27DB0224.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (Int32, String, Exception)" Url="html/27DB0220.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (String, Exception, Int32, Int32)" Url="html/27DB022B.htm" />
+        <HelpTOCNode Title="CodedXmlException Constructor (Int32, String, Exception, Int32, Int32)" Url="html/27DB0227.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedXmlException Properties" Url="html/CA77A4C6.htm" />
+      <HelpTOCNode Id="d549ab1c-91b8-4737-ab57-9087ce7a25e1" Title="CodedXmlException Methods" Url="html/CAB80230.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/254C777D.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedXmlException Events" Url="html/EF5DEA04.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fed3c68f-e11a-428c-94d5-6457803d5649" Title="ExceptionExtensions Class" Url="html/686FEA2C.htm">
+      <HelpTOCNode Id="4846a33d-c92b-4e14-82ae-5772952fd309" Title="ExceptionExtensions Methods" Url="html/64A5220B.htm">
+        <HelpTOCNode Title="GetErrorId Method " Url="html/CBA4D9AF.htm" />
+        <HelpTOCNode Title="GetFacilityId Method " Url="html/49118156.htm" />
+        <HelpTOCNode Title="IsCodedException Method " Url="html/E986D86E.htm" />
+        <HelpTOCNode Title="IsCustomHResult Method " Url="html/B96591C4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="acd45858-6961-4d97-94e9-8804d6875f18" Title="HResultHelper Class" Url="html/35FD09E3.htm">
+      <HelpTOCNode Id="0c963318-0718-43b8-acd1-48d3889bdf8f" Title="HResultHelper Methods" Url="html/9778C184.htm">
+        <HelpTOCNode Title="CreateToString Method " Url="html/6D4C35D5.htm" />
+        <HelpTOCNode Title="EnumToInt32 Method " Url="html/DF2C1A9F.htm" />
+        <HelpTOCNode Title="GetBaseHResult Method " Url="html/752AB021.htm" />
+        <HelpTOCNode Title="GetErrorId Method " Url="html/7FA4D936.htm" />
+        <HelpTOCNode Title="GetFacilityId Method " Url="html/590466DC.htm" />
+        <HelpTOCNode Title="HexStringToByteArray Method " Url="html/D6E0FFFB.htm" />
+        <HelpTOCNode Title="IsCustomHResult Method " Url="html/3D1CD12.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3e8f6033-694e-4356-b352-ae367d282270" Title="HResultHelper Fields" Url="html/A61EA720.htm">
+        <HelpTOCNode Title="CustomHResultMask Field" Url="html/D170445.htm" />
+        <HelpTOCNode Title="ErrorIdMask Field" Url="html/A3B10AE2.htm" />
+        <HelpTOCNode Title="FacilityIdMask Field" Url="html/29A5E4A2.htm" />
+        <HelpTOCNode Title="FacilityIdShift Field" Url="html/AF85739E.htm" />
+        <HelpTOCNode Title="HResultBase Field" Url="html/EFDBC5A4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="afa388c8-266c-4b64-ac4d-a9ad84861206" Title="NerdyDuck.CodedExceptions.Configuration" Url="html/8C9A35B4.htm">
+    <HelpTOCNode Id="0b699bdd-3d73-44b0-848b-30062469c70a" Title="AssemblyDebugMode Class" Url="html/DBEBA58B.htm">
+      <HelpTOCNode Id="f23d42d6-7c22-477f-804f-3b1fca73dce4" Title="AssemblyDebugMode Constructor " Url="html/E3789B7A.htm">
+        <HelpTOCNode Title="AssemblyDebugMode Constructor (String, Boolean)" Url="html/645048BA.htm" />
+        <HelpTOCNode Title="AssemblyDebugMode Constructor (AssemblyIdentity, Boolean)" Url="html/14563625.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7760a656-ce51-4cea-ac37-0b0ab33037c2" Title="AssemblyDebugMode Properties" Url="html/530A6F9F.htm">
+        <HelpTOCNode Title="AssemblyName Property " Url="html/6E0ECF2C.htm" />
+        <HelpTOCNode Title="IsEnabled Property " Url="html/D7B5202.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e69f89be-4397-4183-bb17-e7c8a3060e14" Title="AssemblyDebugMode Methods" Url="html/E8B35587.htm">
+        <HelpTOCNode Title="ISerializable.GetObjectData Method " Url="html/FDBBD7E3.htm" />
+        <HelpTOCNode Id="633fac1d-c663-40fd-bb75-33cd7f4cabec" Title="Equals Method " Url="html/A34428D3.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/D97A5F8D.htm" />
+          <HelpTOCNode Title="Equals Method (AssemblyDebugMode)" Url="html/5862A820.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/839D3914.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0eac4571-01ab-4ddf-93b6-a0fa4ee1bb5d" Title="AssemblyDebugModeCache Class" Url="html/A1FE8B7B.htm">
+      <HelpTOCNode Title="AssemblyDebugModeCache Constructor " Url="html/62B9B5A4.htm" />
+      <HelpTOCNode Id="9d381dd8-fb58-404e-b929-7e9a1122a917" Title="AssemblyDebugModeCache Properties" Url="html/E42AB5E8.htm">
+        <HelpTOCNode Title="Global Property " Url="html/9EA392CF.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="34ae5a29-7ff6-40fd-a50c-5cfb2c2a7510" Title="AssemblyDebugModeCache Methods" Url="html/802EA35A.htm">
+        <HelpTOCNode Id="4ae46b58-1b0d-4b32-a8f3-6a8a28a5cdef" Title="Add Method " Url="html/F2B91047.htm">
+          <HelpTOCNode Title="Add Method (AssemblyDebugMode)" Url="html/D0D38D4B.htm" />
+          <HelpTOCNode Title="Add Method (AssemblyIdentity, Boolean)" Url="html/365A8577.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddRange Method " Url="html/4A2248F2.htm" />
+        <HelpTOCNode Title="Clear Method " Url="html/D6962A35.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/9847533B.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/A0F75341.htm" />
+        <HelpTOCNode Id="0109d967-80f1-4369-a16a-6597707e5b09" Title="IsDebugModeEnabled Method " Url="html/BCC0D6CF.htm">
+          <HelpTOCNode Title="IsDebugModeEnabled Method (Assembly)" Url="html/6112333.htm" />
+          <HelpTOCNode Title="IsDebugModeEnabled Method (Type)" Url="html/75181E90.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a51ab067-f602-4912-be11-29f63d205a90" Title="AssemblyDebugModeCacheExtensions Class" Url="html/9917A8BE.htm">
+      <HelpTOCNode Id="2de653f3-40ec-4276-a2ef-28379fe29d65" Title="AssemblyDebugModeCacheExtensions Methods" Url="html/C7D9D622.htm">
+        <HelpTOCNode Id="3c73610e-0411-4119-97df-d8ab9e32adf8" Title="FromApplicationConfiguration Method " Url="html/8D903C3C.htm">
+          <HelpTOCNode Title="FromApplicationConfiguration Method (AssemblyDebugModeCache)" Url="html/C089E30C.htm" />
+          <HelpTOCNode Title="FromApplicationConfiguration Method (AssemblyDebugModeCache, String)" Url="html/C71083B4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromConfigurationSection Method " Url="html/9EF3DD9C.htm" />
+        <HelpTOCNode Id="a55fe907-987f-4e49-8449-fe333535602a" Title="FromJson Method " Url="html/41A22750.htm">
+          <HelpTOCNode Title="FromJson Method (AssemblyDebugModeCache)" Url="html/160FE5DC.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyDebugModeCache, Stream)" Url="html/AFE75AAC.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyDebugModeCache, TextReader)" Url="html/AFE75AAD.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyDebugModeCache, JsonValue)" Url="html/AFE75AAE.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyDebugModeCache, String)" Url="html/AFE75AA7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e7a31446-b601-4946-aa4c-f0b05ff67791" Title="FromXml Method " Url="html/FBADC6D5.htm">
+          <HelpTOCNode Title="FromXml Method (AssemblyDebugModeCache)" Url="html/6F99BC46.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyDebugModeCache, Stream)" Url="html/B52AA43D.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyDebugModeCache, TextReader)" Url="html/12FBA43D.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyDebugModeCache, String)" Url="html/9E60A43D.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyDebugModeCache, XmlReader)" Url="html/FC31A43D.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a9809af5-59a8-4040-9c74-08bf393dded1" Title="AssemblyFacilityOverride Class" Url="html/791191EA.htm">
+      <HelpTOCNode Id="8006ba63-6655-444f-84fc-6cdaec56bfa5" Title="AssemblyFacilityOverride Constructor " Url="html/4C5B12EF.htm">
+        <HelpTOCNode Title="AssemblyFacilityOverride Constructor (String, Int32)" Url="html/60C0DE16.htm" />
+        <HelpTOCNode Title="AssemblyFacilityOverride Constructor (AssemblyIdentity, Int32)" Url="html/C6E39485.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e4d1eb72-da29-4b57-a63d-df08b2096624" Title="AssemblyFacilityOverride Properties" Url="html/F7557D59.htm">
+        <HelpTOCNode Title="AssemblyName Property " Url="html/9E5D8733.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/6D4264E0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f3668969-e04d-4675-a1be-282fec9a2146" Title="AssemblyFacilityOverride Methods" Url="html/7CC85856.htm">
+        <HelpTOCNode Title="ISerializable.GetObjectData Method " Url="html/EB6EFA89.htm" />
+        <HelpTOCNode Id="a6eeceff-d33c-4972-acbd-4d418fbdf7b0" Title="Equals Method " Url="html/B88FB9B8.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/82E8A11A.htm" />
+          <HelpTOCNode Title="Equals Method (AssemblyFacilityOverride)" Url="html/CCC53FD6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/D484AD5E.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="70269097-beba-47e7-9a8d-8aac3762cb84" Title="AssemblyFacilityOverrideCache Class" Url="html/AA4D2159.htm">
+      <HelpTOCNode Title="AssemblyFacilityOverrideCache Constructor " Url="html/25E183E7.htm" />
+      <HelpTOCNode Id="a36b5ff3-517a-4bd7-9ad7-2453bc83158c" Title="AssemblyFacilityOverrideCache Properties" Url="html/C1E1C5CD.htm">
+        <HelpTOCNode Title="Global Property " Url="html/3F8199A.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b855d829-9f11-41eb-b043-b9ee35123b0c" Title="AssemblyFacilityOverrideCache Methods" Url="html/CDD52F9E.htm">
+        <HelpTOCNode Id="32edfbac-d808-46bf-84da-38fab716ab06" Title="Add Method " Url="html/5832D583.htm">
+          <HelpTOCNode Title="Add Method (AssemblyFacilityOverride)" Url="html/7C7CC516.htm" />
+          <HelpTOCNode Title="Add Method (AssemblyIdentity, Int32)" Url="html/1DF73D94.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddRange Method " Url="html/A3F82F4C.htm" />
+        <HelpTOCNode Title="Clear Method " Url="html/3C2CB2B2.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/95076B54.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/5D44E961.htm" />
+        <HelpTOCNode Id="61e17bef-3919-4b20-93b1-e173cc22cef8" Title="TryGetOverride Method " Url="html/F1B575DC.htm">
+          <HelpTOCNode Title="TryGetOverride Method (Assembly, Int32)" Url="html/9DDABC1D.htm" />
+          <HelpTOCNode Title="TryGetOverride Method (Type, Int32)" Url="html/7E84D182.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="036b9e2f-fe57-42aa-8916-f348abbab660" Title="AssemblyFacilityOverrideCacheExtensions Class" Url="html/C32F001F.htm">
+      <HelpTOCNode Id="151b10ff-f6ad-4383-a2e7-2e4434917c1d" Title="AssemblyFacilityOverrideCacheExtensions Methods" Url="html/CA1CE460.htm">
+        <HelpTOCNode Id="52d09c6a-1308-4820-9492-e711e53b34c3" Title="FromApplicationConfiguration Method " Url="html/F6BFF2C6.htm">
+          <HelpTOCNode Title="FromApplicationConfiguration Method (AssemblyFacilityOverrideCache)" Url="html/F45D8E65.htm" />
+          <HelpTOCNode Title="FromApplicationConfiguration Method (AssemblyFacilityOverrideCache, String)" Url="html/B19CF06F.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromConfigurationSection Method " Url="html/8BDFDF77.htm" />
+        <HelpTOCNode Id="4536500e-7e81-46f1-b4c1-8f7a5f92abe5" Title="FromJson Method " Url="html/6ED83177.htm">
+          <HelpTOCNode Title="FromJson Method (AssemblyFacilityOverrideCache)" Url="html/69E0DBA2.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyFacilityOverrideCache, Stream)" Url="html/14A17B42.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyFacilityOverrideCache, TextReader)" Url="html/B6D07B42.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyFacilityOverrideCache, JsonValue)" Url="html/2B6B7B42.htm" />
+          <HelpTOCNode Title="FromJson Method (AssemblyFacilityOverrideCache, String)" Url="html/72727B42.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="87975369-c4e0-4af5-b727-ccbb9c9a8af7" Title="FromXml Method " Url="html/1BC646BC.htm">
+          <HelpTOCNode Title="FromXml Method (AssemblyFacilityOverrideCache)" Url="html/2FE70E85.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyFacilityOverrideCache, Stream)" Url="html/71536F2F.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyFacilityOverrideCache, TextReader)" Url="html/5949CD00.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyFacilityOverrideCache, String)" Url="html/B6A25865.htm" />
+          <HelpTOCNode Title="FromXml Method (AssemblyFacilityOverrideCache, XmlReader)" Url="html/9E98B636.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6b0c3a1c-414c-4ac3-9111-fef8e0e9b7e6" Title="AssemblyIdentity Class" Url="html/4AE44CA0.htm">
+      <HelpTOCNode Id="6c36352a-4a21-43cb-bc1a-6873c1e36796" Title="AssemblyIdentity Constructor " Url="html/15F13E28.htm">
+        <HelpTOCNode Title="AssemblyIdentity Constructor " Url="html/2B86C13.htm" />
+        <HelpTOCNode Title="AssemblyIdentity Constructor (String)" Url="html/4928C389.htm" />
+        <HelpTOCNode Title="AssemblyIdentity Constructor (AssemblyIdentity)" Url="html/4926C389.htm" />
+        <HelpTOCNode Title="AssemblyIdentity Constructor (Assembly, AssemblyIdentity.AssemblyNameElements)" Url="html/4927C389.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1b330123-b2d7-4da1-910e-77601e791c5d" Title="AssemblyIdentity Properties" Url="html/390A0E72.htm">
+        <HelpTOCNode Title="Culture Property " Url="html/2F4BE65E.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/DFD73626.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/C1264232.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e4acb27d-2430-4cdc-a864-2179f1dfaef3" Title="AssemblyIdentity Methods" Url="html/B0049A31.htm">
+        <HelpTOCNode Title="ISerializable.GetObjectData Method " Url="html/EDB3E766.htm" />
+        <HelpTOCNode Id="a5b93612-b33c-45b1-ae66-261bc87aabd6" Title="Equals Method " Url="html/8D16F4A3.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/1B2EB53C.htm" />
+          <HelpTOCNode Title="Equals Method (Assembly)" Url="html/325130D.htm" />
+          <HelpTOCNode Title="Equals Method (AssemblyIdentity)" Url="html/5F2322BD.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/2C5AFD0D.htm" />
+        <HelpTOCNode Title="GetPublicKeyToken Method " Url="html/2356BE0.htm" />
+        <HelpTOCNode Title="IsMatch Method " Url="html/C3EF220F.htm" />
+        <HelpTOCNode Title="Match Method " Url="html/8A71E359.htm" />
+        <HelpTOCNode Title="SetPublicKeyToken Method " Url="html/FC6B7988.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/D3B167C9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd55429c-1c7e-4239-9e3a-b0e0a5d7b11d" Title="AssemblyIdentity Operators" Url="html/AC2A7C4B.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/E5B462A8.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/E5C2EB1D.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6ac8fd88-d045-44c2-8579-8ef4fac3aad9" Title="AssemblyIdentity Fields" Url="html/E4C2847D.htm">
+        <HelpTOCNode Title="MaximumMatchValue Field" Url="html/8C825526.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="AssemblyIdentity.AssemblyNameElements Enumeration" Url="html/EBF0A0C2.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="0a39cb22-7545-42f3-9e16-1e497436d249" Title="NerdyDuck.CodedExceptions.IO" Url="html/9AF19F68.htm">
+    <HelpTOCNode Id="9a4b8568-8759-4f1d-b16a-028dd83de4a1" Title="CodedDirectoryNotFoundException Class" Url="html/CC15170D.htm">
+      <HelpTOCNode Id="f891a675-8bc6-4e5c-9c46-88b8e76eadf7" Title="CodedDirectoryNotFoundException Constructor " Url="html/FA4E26B5.htm">
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor " Url="html/6B882093.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (Int32)" Url="html/F6D69D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (String)" Url="html/F6DC9D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (Int32, String)" Url="html/F6D99D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (SerializationInfo, StreamingContext)" Url="html/F6DD9D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (String, Exception)" Url="html/F6CF9D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (String, String)" Url="html/F6CE9D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (Int32, String, Exception)" Url="html/F6D89D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (Int32, String, String)" Url="html/F6DB9D8F.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (String, String, Exception)" Url="html/E69EE28B.htm" />
+        <HelpTOCNode Title="CodedDirectoryNotFoundException Constructor (Int32, String, String, Exception)" Url="html/F6DA9D8F.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d8d4893e-246f-43f3-b9ec-fd4f07555289" Title="CodedDirectoryNotFoundException Properties" Url="html/4183E4B6.htm">
+        <HelpTOCNode Title="DirectoryName Property " Url="html/9F9A7232.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd4a1ee9-ca58-4bd1-be32-9deb59dbb9b4" Title="CodedDirectoryNotFoundException Methods" Url="html/3F5E29DB.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/8B404ED5.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/5A62F338.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedDirectoryNotFoundException Events" Url="html/B1231457.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ed527447-610f-4c16-87aa-7f0f3cf41020" Title="CodedFileExistsException Class" Url="html/6F045504.htm">
+      <HelpTOCNode Id="c80ebc92-47b3-4eb0-9ce2-58f2c247e9cf" Title="CodedFileExistsException Constructor " Url="html/25D32B16.htm">
+        <HelpTOCNode Title="CodedFileExistsException Constructor " Url="html/CD4CC9CA.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (Int32)" Url="html/1B996F47.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (String)" Url="html/D64A8611.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (Int32, String)" Url="html/38FCD18.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (SerializationInfo, StreamingContext)" Url="html/78F1FAAC.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (String, Exception)" Url="html/D37C88BA.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (String, String)" Url="html/30D5141F.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (Int32, String, Exception)" Url="html/60E8587D.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (Int32, String, String)" Url="html/33A31176.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (String, String, Exception)" Url="html/F8A96F47.htm" />
+        <HelpTOCNode Title="CodedFileExistsException Constructor (Int32, String, String, Exception)" Url="html/90FB9CDB.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="47bafc85-13f2-4ed7-b7d8-672fbd4d76b1" Title="CodedFileExistsException Properties" Url="html/478F8694.htm">
+        <HelpTOCNode Title="FileName Property " Url="html/B8EB694.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="37ff7648-daf6-4b8f-8b8e-c34b222fde5c" Title="CodedFileExistsException Methods" Url="html/8EDBCF73.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/D319BE06.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/D49AC90A.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedFileExistsException Events" Url="html/42C93FE6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5ec5c615-c3a0-4b79-af3b-c1ca528686ab" Title="CodedFileNotFoundException Class" Url="html/D6FF17E8.htm">
+      <HelpTOCNode Id="3c577a30-1917-4062-9429-a4397428ade2" Title="CodedFileNotFoundException Constructor " Url="html/1348EA88.htm">
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor " Url="html/C5B41A36.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (Int32)" Url="html/CF34052.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (String)" Url="html/CF3404C.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (Int32, String)" Url="html/CF34051.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (SerializationInfo, StreamingContext)" Url="html/CF3404D.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (String, Exception)" Url="html/CF3404B.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (String, String)" Url="html/CF3404A.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (Int32, String, Exception)" Url="html/CF34050.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (Int32, String, String)" Url="html/CF3404F.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (String, String, Exception)" Url="html/D234052.htm" />
+        <HelpTOCNode Title="CodedFileNotFoundException Constructor (Int32, String, String, Exception)" Url="html/CF3404E.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedFileNotFoundException Properties" Url="html/36065BDF.htm" />
+      <HelpTOCNode Id="c8d7c6b0-b754-479c-8f70-ad7d1bf11494" Title="CodedFileNotFoundException Methods" Url="html/194F28E1.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/F5B28F11.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedFileNotFoundException Events" Url="html/797CE9DD.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="65cac93d-7213-4c33-8f4e-64feb95d90be" Title="CodedInvalidDataException Class" Url="html/F124DA9E.htm">
+      <HelpTOCNode Id="e77232ae-0834-4b09-b7f9-de7217e1a1fd" Title="CodedInvalidDataException Constructor " Url="html/669A4575.htm">
+        <HelpTOCNode Title="CodedInvalidDataException Constructor " Url="html/68C5B67.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (Int32)" Url="html/B98D708E.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (String)" Url="html/8BF9708E.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (Int32, String)" Url="html/175E708E.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (SerializationInfo, StreamingContext)" Url="html/94708E.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (String, Exception)" Url="html/E9CA708E.htm" />
+        <HelpTOCNode Title="CodedInvalidDataException Constructor (Int32, String, Exception)" Url="html/A2C3708E.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidDataException Properties" Url="html/A395A21.htm" />
+      <HelpTOCNode Title="CodedInvalidDataException Methods" Url="html/5ACE546C.htm" />
+      <HelpTOCNode Title="CodedInvalidDataException Events" Url="html/B1F2BD6E.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd2c4689-a613-499d-85a8-7061255b20d9" Title="CodedInvalidFileException Class" Url="html/37614AAD.htm">
+      <HelpTOCNode Id="da377cdb-d84a-4c6a-831a-8957f8077f01" Title="CodedInvalidFileException Constructor " Url="html/EE26B272.htm">
+        <HelpTOCNode Title="CodedInvalidFileException Constructor " Url="html/FED823CF.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (Int32)" Url="html/39460BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (String)" Url="html/227C0BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (Int32, String)" Url="html/C4AB0BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (SerializationInfo, StreamingContext)" Url="html/97170BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (String, Exception)" Url="html/52B90BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (String, String)" Url="html/DE1E0BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (Int32, String, Exception)" Url="html/50100BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (Int32, String, String)" Url="html/804D0BF7.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (String, String, Exception)" Url="html/C918D229.htm" />
+        <HelpTOCNode Title="CodedInvalidFileException Constructor (Int32, String, String, Exception)" Url="html/BB20BF7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc4f6d76-1034-4200-b246-10053b5889be" Title="CodedInvalidFileException Properties" Url="html/A1089593.htm">
+        <HelpTOCNode Title="FileName Property " Url="html/92D6E0B8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9d1589db-a6b7-4a1f-a445-675e14e5ea87" Title="CodedInvalidFileException Methods" Url="html/956026A3.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/BC58434F.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/A7788F78.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedInvalidFileException Events" Url="html/ECCBD294.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d2e56bc9-bdab-4edc-9aac-695c79c5baf9" Title="CodedIOException Class" Url="html/275A1C78.htm">
+      <HelpTOCNode Id="3bf56796-4cf8-49f0-933e-6550d4d3e42a" Title="CodedIOException Constructor " Url="html/5226D6ED.htm">
+        <HelpTOCNode Title="CodedIOException Constructor " Url="html/C10188E6.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (Int32)" Url="html/11F1409C.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (String)" Url="html/87536E30.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (Int32, String)" Url="html/6F49CC01.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (SerializationInfo, StreamingContext)" Url="html/29FAE2CB.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (String, Exception)" Url="html/E4ABF995.htm" />
+        <HelpTOCNode Title="CodedIOException Constructor (Int32, String, Exception)" Url="html/CCA25766.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedIOException Properties" Url="html/D39B9057.htm" />
+      <HelpTOCNode Id="be151864-22be-4b74-8c6a-f8863a919a4a" Title="CodedIOException Methods" Url="html/CE68C52A.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/8F873301.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CodedIOException Events" Url="html/4B60039.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="79396345-b9bc-493b-a139-acf1014f58a2" Title="InsufficientStorageSpaceException Class" Url="html/F5DDAADF.htm">
+      <HelpTOCNode Id="4b99fefb-c1b7-4f08-90f6-17143d2ce60b" Title="InsufficientStorageSpaceException Constructor " Url="html/AA3095B9.htm">
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor " Url="html/529D66C.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (Int32)" Url="html/7A6CBBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (String)" Url="html/9136BBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (Int32, String)" Url="html/D83DBBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (SerializationInfo, StreamingContext)" Url="html/5D1BBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (String, Exception)" Url="html/4A2FBBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (String, String)" Url="html/D594BBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (Int32, String, Exception)" Url="html/63A2BBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (Int32, String, String)" Url="html/1C9BBBC3.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (String, String, Exception)" Url="html/C0B90DBA.htm" />
+        <HelpTOCNode Title="InsufficientStorageSpaceException Constructor (Int32, String, String, Exception)" Url="html/A800BBC3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68927340-eea9-4435-94bc-629a738de196" Title="InsufficientStorageSpaceException Properties" Url="html/F48F619A.htm">
+        <HelpTOCNode Title="StoragePath Property " Url="html/262573CF.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d3dcc4db-56fa-4b90-a4b5-5fca6db99de5" Title="InsufficientStorageSpaceException Methods" Url="html/2E66DB97.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/E42FD848.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/71CCF016.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="InsufficientStorageSpaceException Events" Url="html/91EDEA5C.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

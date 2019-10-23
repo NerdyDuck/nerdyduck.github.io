@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method">
+    <HelpKINode Title="AssemblyDebugModeCache.Add Method " Url="html/F2B91047.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.Add Method " Url="html/5832D583.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddRange method">
+    <HelpKINode Title="AssemblyDebugModeCache.AddRange Method " Url="html/4A2248F2.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.AddRange Method " Url="html/A3F82F4C.htm" />
+  </HelpKINode>
+  <HelpKINode Title="All enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="AssemblyDebugMode class">
+    <HelpKINode Title="AssemblyDebugMode Class" Url="html/DBEBA58B.htm" />
+    <HelpKINode Title="constructor" Url="html/E3789B7A.htm" />
+    <HelpKINode Title="methods" Url="html/E8B35587.htm" />
+    <HelpKINode Title="properties" Url="html/530A6F9F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyDebugMode.AssemblyDebugMode constructor" Url="html/E3789B7A.htm" />
+  <HelpKINode Title="AssemblyDebugMode.AssemblyName property" Url="html/6E0ECF2C.htm" />
+  <HelpKINode Title="AssemblyDebugMode.Equals method" Url="html/A34428D3.htm" />
+  <HelpKINode Title="AssemblyDebugMode.GetHashCode method" Url="html/839D3914.htm" />
+  <HelpKINode Title="AssemblyDebugMode.IsEnabled property" Url="html/D7B5202.htm" />
+  <HelpKINode Title="AssemblyDebugMode.ISerializable.GetObjectData explicitly implemented method" Url="html/FDBBD7E3.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache class">
+    <HelpKINode Title="AssemblyDebugModeCache Class" Url="html/A1FE8B7B.htm" />
+    <HelpKINode Title="constructor" Url="html/62B9B5A4.htm" />
+    <HelpKINode Title="methods" Url="html/802EA35A.htm" />
+    <HelpKINode Title="properties" Url="html/E42AB5E8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyDebugModeCache.Add method" Url="html/F2B91047.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.AddRange method" Url="html/4A2248F2.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.AssemblyDebugModeCache constructor" Url="html/62B9B5A4.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.Clear method" Url="html/D6962A35.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.Dispose method" Url="html/9847533B.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.Finalize method" Url="html/A0F75341.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.Global property" Url="html/9EA392CF.htm" />
+  <HelpKINode Title="AssemblyDebugModeCache.IsDebugModeEnabled method" Url="html/BCC0D6CF.htm" />
+  <HelpKINode Title="AssemblyDebugModeCacheExtensions class">
+    <HelpKINode Title="AssemblyDebugModeCacheExtensions Class" Url="html/9917A8BE.htm" />
+    <HelpKINode Title="methods" Url="html/C7D9D622.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromApplicationConfiguration method" Url="html/8D903C3C.htm" />
+  <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromConfigurationSection method" Url="html/9EF3DD9C.htm" />
+  <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromJson method" Url="html/41A22750.htm" />
+  <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromXml method" Url="html/FBADC6D5.htm" />
+  <HelpKINode Title="AssemblyFacilityIdentifierAttribute class">
+    <HelpKINode Title="AssemblyFacilityIdentifierAttribute Class" Url="html/4D56FFE5.htm" />
+    <HelpKINode Title="constructor" Url="html/D791698F.htm" />
+    <HelpKINode Title="methods" Url="html/1EC32B50.htm" />
+    <HelpKINode Title="properties" Url="html/FC318125.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyFacilityIdentifierAttribute.AssemblyFacilityIdentifierAttribute constructor" Url="html/D791698F.htm" />
+  <HelpKINode Title="AssemblyFacilityIdentifierAttribute.FacilityId property" Url="html/43E85B8F.htm" />
+  <HelpKINode Title="AssemblyFacilityIdentifierAttribute.FromAssembly method" Url="html/1BEEF453.htm" />
+  <HelpKINode Title="AssemblyFacilityIdentifierAttribute.FromType method" Url="html/60CC030D.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride class">
+    <HelpKINode Title="AssemblyFacilityOverride Class" Url="html/791191EA.htm" />
+    <HelpKINode Title="constructor" Url="html/4C5B12EF.htm" />
+    <HelpKINode Title="methods" Url="html/7CC85856.htm" />
+    <HelpKINode Title="properties" Url="html/F7557D59.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyFacilityOverride.AssemblyFacilityOverride constructor" Url="html/4C5B12EF.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride.AssemblyName property" Url="html/9E5D8733.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride.Equals method" Url="html/B88FB9B8.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride.GetHashCode method" Url="html/D484AD5E.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride.Identifier property" Url="html/6D4264E0.htm" />
+  <HelpKINode Title="AssemblyFacilityOverride.ISerializable.GetObjectData explicitly implemented method" Url="html/EB6EFA89.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache class">
+    <HelpKINode Title="AssemblyFacilityOverrideCache Class" Url="html/AA4D2159.htm" />
+    <HelpKINode Title="constructor" Url="html/25E183E7.htm" />
+    <HelpKINode Title="methods" Url="html/CDD52F9E.htm" />
+    <HelpKINode Title="properties" Url="html/C1E1C5CD.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyFacilityOverrideCache.Add method" Url="html/5832D583.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.AddRange method" Url="html/A3F82F4C.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.AssemblyFacilityOverrideCache constructor" Url="html/25E183E7.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.Clear method" Url="html/3C2CB2B2.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.Dispose method" Url="html/95076B54.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.Finalize method" Url="html/5D44E961.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.Global property" Url="html/3F8199A.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCache.TryGetOverride method" Url="html/F1B575DC.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions class">
+    <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions Class" Url="html/C32F001F.htm" />
+    <HelpKINode Title="methods" Url="html/CA1CE460.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromApplicationConfiguration method" Url="html/F6BFF2C6.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromConfigurationSection method" Url="html/8BDFDF77.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromJson method" Url="html/6ED83177.htm" />
+  <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromXml method" Url="html/1BC646BC.htm" />
+  <HelpKINode Title="AssemblyIdentity class">
+    <HelpKINode Title="AssemblyIdentity Class" Url="html/4AE44CA0.htm" />
+    <HelpKINode Title="constructor" Url="html/15F13E28.htm" />
+    <HelpKINode Title="fields" Url="html/E4C2847D.htm" />
+    <HelpKINode Title="methods" Url="html/B0049A31.htm" />
+    <HelpKINode Title="operators" Url="html/AC2A7C4B.htm" />
+    <HelpKINode Title="properties" Url="html/390A0E72.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyIdentity.AssemblyIdentity constructor" Url="html/15F13E28.htm" />
+  <HelpKINode Title="AssemblyIdentity.AssemblyNameElements enumeration" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="AssemblyIdentity.Culture property" Url="html/2F4BE65E.htm" />
+  <HelpKINode Title="AssemblyIdentity.Equality operator" Url="html/E5B462A8.htm" />
+  <HelpKINode Title="AssemblyIdentity.Equals method" Url="html/8D16F4A3.htm" />
+  <HelpKINode Title="AssemblyIdentity.GetHashCode method" Url="html/2C5AFD0D.htm" />
+  <HelpKINode Title="AssemblyIdentity.GetPublicKeyToken method" Url="html/2356BE0.htm" />
+  <HelpKINode Title="AssemblyIdentity.Inequality operator" Url="html/E5C2EB1D.htm" />
+  <HelpKINode Title="AssemblyIdentity.ISerializable.GetObjectData explicitly implemented method" Url="html/EDB3E766.htm" />
+  <HelpKINode Title="AssemblyIdentity.IsMatch method" Url="html/C3EF220F.htm" />
+  <HelpKINode Title="AssemblyIdentity.Match method" Url="html/8A71E359.htm" />
+  <HelpKINode Title="AssemblyIdentity.MaximumMatchValue field" Url="html/8C825526.htm" />
+  <HelpKINode Title="AssemblyIdentity.Name property" Url="html/DFD73626.htm" />
+  <HelpKINode Title="AssemblyIdentity.SetPublicKeyToken method" Url="html/FC6B7988.htm" />
+  <HelpKINode Title="AssemblyIdentity.ToString method" Url="html/D3B167C9.htm" />
+  <HelpKINode Title="AssemblyIdentity.Version property" Url="html/C1264232.htm" />
+  <HelpKINode Title="AssemblyName property">
+    <HelpKINode Title="AssemblyDebugMode.AssemblyName Property " Url="html/6E0ECF2C.htm" />
+    <HelpKINode Title="AssemblyFacilityOverride.AssemblyName Property " Url="html/9E5D8733.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Clear method">
+    <HelpKINode Title="AssemblyDebugModeCache.Clear Method " Url="html/D6962A35.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.Clear Method " Url="html/3C2CB2B2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedAggregateException class">
+    <HelpKINode Title="CodedAggregateException Class" Url="html/C6B92CA4.htm" />
+    <HelpKINode Title="constructor" Url="html/4F754D58.htm" />
+    <HelpKINode Title="events" Url="html/EE10119C.htm" />
+    <HelpKINode Title="methods" Url="html/8A223037.htm" />
+    <HelpKINode Title="properties" Url="html/B5FF649E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedAggregateException.CodedAggregateException constructor" Url="html/4F754D58.htm" />
+  <HelpKINode Title="CodedAggregateException.ToString method" Url="html/90F8BD45.htm" />
+  <HelpKINode Title="CodedArgumentException class">
+    <HelpKINode Title="CodedArgumentException Class" Url="html/6C3A992D.htm" />
+    <HelpKINode Title="constructor" Url="html/AB9DF3A3.htm" />
+    <HelpKINode Title="events" Url="html/1A3D3123.htm" />
+    <HelpKINode Title="methods" Url="html/3FA3FFB7.htm" />
+    <HelpKINode Title="properties" Url="html/3953B9A4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedArgumentException.CodedArgumentException constructor" Url="html/AB9DF3A3.htm" />
+  <HelpKINode Title="CodedArgumentException.ToString method" Url="html/BBF8E17B.htm" />
+  <HelpKINode Title="CodedArgumentNullException class">
+    <HelpKINode Title="CodedArgumentNullException Class" Url="html/D1BC8882.htm" />
+    <HelpKINode Title="constructor" Url="html/E345C8CC.htm" />
+    <HelpKINode Title="events" Url="html/762882AE.htm" />
+    <HelpKINode Title="methods" Url="html/19CE10C8.htm" />
+    <HelpKINode Title="properties" Url="html/E5DB60C9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedArgumentNullException.CodedArgumentNullException constructor" Url="html/E345C8CC.htm" />
+  <HelpKINode Title="CodedArgumentNullException.ToString method" Url="html/957B289C.htm" />
+  <HelpKINode Title="CodedArgumentNullOrEmptyException class">
+    <HelpKINode Title="CodedArgumentNullOrEmptyException Class" Url="html/BEA1A75.htm" />
+    <HelpKINode Title="constructor" Url="html/1ADF263.htm" />
+    <HelpKINode Title="events" Url="html/DA98D40F.htm" />
+    <HelpKINode Title="methods" Url="html/F44D51E4.htm" />
+    <HelpKINode Title="properties" Url="html/D6B1AB7B.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedArgumentNullOrEmptyException.CodedArgumentNullOrEmptyException constructor" Url="html/1ADF263.htm" />
+  <HelpKINode Title="CodedArgumentNullOrEmptyException.ToString method" Url="html/878898CD.htm" />
+  <HelpKINode Title="CodedArgumentNullOrWhiteSpaceException class">
+    <HelpKINode Title="CodedArgumentNullOrWhiteSpaceException Class" Url="html/6B50408E.htm" />
+    <HelpKINode Title="constructor" Url="html/1B7288E2.htm" />
+    <HelpKINode Title="events" Url="html/DC769223.htm" />
+    <HelpKINode Title="methods" Url="html/86780524.htm" />
+    <HelpKINode Title="properties" Url="html/1918492F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedArgumentNullOrWhiteSpaceException.CodedArgumentNullOrWhiteSpaceException constructor" Url="html/1B7288E2.htm" />
+  <HelpKINode Title="CodedArgumentNullOrWhiteSpaceException.ToString method" Url="html/40888756.htm" />
+  <HelpKINode Title="CodedArgumentOutOfRangeException class">
+    <HelpKINode Title="CodedArgumentOutOfRangeException Class" Url="html/DF59B1A5.htm" />
+    <HelpKINode Title="constructor" Url="html/ADD09D85.htm" />
+    <HelpKINode Title="events" Url="html/ECEFACAA.htm" />
+    <HelpKINode Title="methods" Url="html/56DFA011.htm" />
+    <HelpKINode Title="properties" Url="html/8C6238E0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedArgumentOutOfRangeException.CodedArgumentOutOfRangeException constructor" Url="html/ADD09D85.htm" />
+  <HelpKINode Title="CodedArgumentOutOfRangeException.ToString method" Url="html/7BF45399.htm" />
+  <HelpKINode Title="CodedCommunicationException class">
+    <HelpKINode Title="CodedCommunicationException Class" Url="html/4DB725A2.htm" />
+    <HelpKINode Title="constructor" Url="html/E198EFA5.htm" />
+    <HelpKINode Title="events" Url="html/CAAEAF12.htm" />
+    <HelpKINode Title="methods" Url="html/82EACB03.htm" />
+    <HelpKINode Title="properties" Url="html/4CECDD49.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedCommunicationException.CodedCommunicationException constructor" Url="html/E198EFA5.htm" />
+  <HelpKINode Title="CodedDataException class">
+    <HelpKINode Title="CodedDataException Class" Url="html/6302B905.htm" />
+    <HelpKINode Title="constructor" Url="html/F6B482F6.htm" />
+    <HelpKINode Title="events" Url="html/F1E88EDC.htm" />
+    <HelpKINode Title="methods" Url="html/FF86923C.htm" />
+    <HelpKINode Title="properties" Url="html/5F2C6CF.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedDataException.CodedDataException constructor" Url="html/F6B482F6.htm" />
+  <HelpKINode Title="CodedDataException.ToString method" Url="html/3EBF4D89.htm" />
+  <HelpKINode Title="CodedDirectoryNotFoundException class">
+    <HelpKINode Title="CodedDirectoryNotFoundException Class" Url="html/CC15170D.htm" />
+    <HelpKINode Title="constructor" Url="html/FA4E26B5.htm" />
+    <HelpKINode Title="events" Url="html/B1231457.htm" />
+    <HelpKINode Title="methods" Url="html/3F5E29DB.htm" />
+    <HelpKINode Title="properties" Url="html/4183E4B6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedDirectoryNotFoundException.CodedDirectoryNotFoundException constructor" Url="html/FA4E26B5.htm" />
+  <HelpKINode Title="CodedDirectoryNotFoundException.DirectoryName property" Url="html/9F9A7232.htm" />
+  <HelpKINode Title="CodedDirectoryNotFoundException.GetObjectData method" Url="html/8B404ED5.htm" />
+  <HelpKINode Title="CodedDirectoryNotFoundException.ToString method" Url="html/5A62F338.htm" />
+  <HelpKINode Title="CodedException class">
+    <HelpKINode Title="CodedException Class" Url="html/1BE0BED3.htm" />
+    <HelpKINode Title="constructor" Url="html/97B260BA.htm" />
+    <HelpKINode Title="events" Url="html/A1539D76.htm" />
+    <HelpKINode Title="methods" Url="html/64F573BD.htm" />
+    <HelpKINode Title="properties" Url="html/E7810247.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedException.CodedException constructor" Url="html/97B260BA.htm" />
+  <HelpKINode Title="CodedException.ToString method" Url="html/AB1738C.htm" />
+  <HelpKINode Title="CodedExceptionAttribute class">
+    <HelpKINode Title="CodedExceptionAttribute Class" Url="html/6655E511.htm" />
+    <HelpKINode Title="constructor" Url="html/9DB51B19.htm" />
+    <HelpKINode Title="methods" Url="html/7A07BBF8.htm" />
+    <HelpKINode Title="properties" Url="html/58985CD5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedExceptionAttribute.CodedExceptionAttribute constructor" Url="html/9DB51B19.htm" />
+  <HelpKINode Title="CodedExceptionAttribute.IsCodedException method" Url="html/6DC690BB.htm" />
+  <HelpKINode Title="CodedFileExistsException class">
+    <HelpKINode Title="CodedFileExistsException Class" Url="html/6F045504.htm" />
+    <HelpKINode Title="constructor" Url="html/25D32B16.htm" />
+    <HelpKINode Title="events" Url="html/42C93FE6.htm" />
+    <HelpKINode Title="methods" Url="html/8EDBCF73.htm" />
+    <HelpKINode Title="properties" Url="html/478F8694.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedFileExistsException.CodedFileExistsException constructor" Url="html/25D32B16.htm" />
+  <HelpKINode Title="CodedFileExistsException.FileName property" Url="html/B8EB694.htm" />
+  <HelpKINode Title="CodedFileExistsException.GetObjectData method" Url="html/D319BE06.htm" />
+  <HelpKINode Title="CodedFileExistsException.ToString method" Url="html/D49AC90A.htm" />
+  <HelpKINode Title="CodedFileNotFoundException class">
+    <HelpKINode Title="CodedFileNotFoundException Class" Url="html/D6FF17E8.htm" />
+    <HelpKINode Title="constructor" Url="html/1348EA88.htm" />
+    <HelpKINode Title="events" Url="html/797CE9DD.htm" />
+    <HelpKINode Title="methods" Url="html/194F28E1.htm" />
+    <HelpKINode Title="properties" Url="html/36065BDF.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedFileNotFoundException.CodedFileNotFoundException constructor" Url="html/1348EA88.htm" />
+  <HelpKINode Title="CodedFileNotFoundException.ToString method" Url="html/F5B28F11.htm" />
+  <HelpKINode Title="CodedFormatException class">
+    <HelpKINode Title="CodedFormatException Class" Url="html/FDF71FAC.htm" />
+    <HelpKINode Title="constructor" Url="html/40ED2833.htm" />
+    <HelpKINode Title="events" Url="html/4FECAA2F.htm" />
+    <HelpKINode Title="methods" Url="html/30A03D1E.htm" />
+    <HelpKINode Title="properties" Url="html/FB595178.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedFormatException.CodedFormatException constructor" Url="html/40ED2833.htm" />
+  <HelpKINode Title="CodedFormatException.ToString method" Url="html/35E5BFF6.htm" />
+  <HelpKINode Title="CodedInvalidCastException class">
+    <HelpKINode Title="CodedInvalidCastException Class" Url="html/6DA125E7.htm" />
+    <HelpKINode Title="constructor" Url="html/8E1A4ED0.htm" />
+    <HelpKINode Title="events" Url="html/1CD5AF7F.htm" />
+    <HelpKINode Title="methods" Url="html/247954D.htm" />
+    <HelpKINode Title="properties" Url="html/A13F11D1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedInvalidCastException.CodedInvalidCastException constructor" Url="html/8E1A4ED0.htm" />
+  <HelpKINode Title="CodedInvalidCastException.ToString method" Url="html/CC183D83.htm" />
+  <HelpKINode Title="CodedInvalidDataException class">
+    <HelpKINode Title="CodedInvalidDataException Class" Url="html/F124DA9E.htm" />
+    <HelpKINode Title="constructor" Url="html/669A4575.htm" />
+    <HelpKINode Title="events" Url="html/B1F2BD6E.htm" />
+    <HelpKINode Title="methods" Url="html/5ACE546C.htm" />
+    <HelpKINode Title="properties" Url="html/A395A21.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedInvalidDataException.CodedInvalidDataException constructor" Url="html/669A4575.htm" />
+  <HelpKINode Title="CodedInvalidFileException class">
+    <HelpKINode Title="CodedInvalidFileException Class" Url="html/37614AAD.htm" />
+    <HelpKINode Title="constructor" Url="html/EE26B272.htm" />
+    <HelpKINode Title="events" Url="html/ECCBD294.htm" />
+    <HelpKINode Title="methods" Url="html/956026A3.htm" />
+    <HelpKINode Title="properties" Url="html/A1089593.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedInvalidFileException.CodedInvalidFileException constructor" Url="html/EE26B272.htm" />
+  <HelpKINode Title="CodedInvalidFileException.FileName property" Url="html/92D6E0B8.htm" />
+  <HelpKINode Title="CodedInvalidFileException.GetObjectData method" Url="html/BC58434F.htm" />
+  <HelpKINode Title="CodedInvalidFileException.ToString method" Url="html/A7788F78.htm" />
+  <HelpKINode Title="CodedInvalidOperationException class">
+    <HelpKINode Title="CodedInvalidOperationException Class" Url="html/E192522E.htm" />
+    <HelpKINode Title="constructor" Url="html/53565251.htm" />
+    <HelpKINode Title="events" Url="html/F1F73FB8.htm" />
+    <HelpKINode Title="methods" Url="html/7A811D0.htm" />
+    <HelpKINode Title="properties" Url="html/9BE2537E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedInvalidOperationException.CodedInvalidOperationException constructor" Url="html/53565251.htm" />
+  <HelpKINode Title="CodedInvalidOperationException.ToString method" Url="html/3DFFDE26.htm" />
+  <HelpKINode Title="CodedIOException class">
+    <HelpKINode Title="CodedIOException Class" Url="html/275A1C78.htm" />
+    <HelpKINode Title="constructor" Url="html/5226D6ED.htm" />
+    <HelpKINode Title="events" Url="html/4B60039.htm" />
+    <HelpKINode Title="methods" Url="html/CE68C52A.htm" />
+    <HelpKINode Title="properties" Url="html/D39B9057.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedIOException.CodedIOException constructor" Url="html/5226D6ED.htm" />
+  <HelpKINode Title="CodedIOException.ToString method" Url="html/8F873301.htm" />
+  <HelpKINode Title="CodedNotSupportedException class">
+    <HelpKINode Title="CodedNotSupportedException Class" Url="html/F0862952.htm" />
+    <HelpKINode Title="constructor" Url="html/C5B0B7BD.htm" />
+    <HelpKINode Title="events" Url="html/A3A2725.htm" />
+    <HelpKINode Title="methods" Url="html/68815034.htm" />
+    <HelpKINode Title="properties" Url="html/FF608B1B.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedNotSupportedException.CodedNotSupportedException constructor" Url="html/C5B0B7BD.htm" />
+  <HelpKINode Title="CodedNotSupportedException.ToString method" Url="html/E0FE5B78.htm" />
+  <HelpKINode Title="CodedProtocolViolationException class">
+    <HelpKINode Title="CodedProtocolViolationException Class" Url="html/B6948A6B.htm" />
+    <HelpKINode Title="constructor" Url="html/560D47EE.htm" />
+    <HelpKINode Title="events" Url="html/AC3B0783.htm" />
+    <HelpKINode Title="methods" Url="html/93D28817.htm" />
+    <HelpKINode Title="properties" Url="html/42B8DFAD.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedProtocolViolationException.CodedProtocolViolationException constructor" Url="html/560D47EE.htm" />
+  <HelpKINode Title="CodedProtocolViolationException.ToString method" Url="html/7414EC25.htm" />
+  <HelpKINode Title="CodedSerializationException class">
+    <HelpKINode Title="CodedSerializationException Class" Url="html/86688F5E.htm" />
+    <HelpKINode Title="constructor" Url="html/E9F9AB94.htm" />
+    <HelpKINode Title="events" Url="html/C246CE8.htm" />
+    <HelpKINode Title="methods" Url="html/B3F6CAE1.htm" />
+    <HelpKINode Title="properties" Url="html/7E29E327.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedSerializationException.CodedSerializationException constructor" Url="html/E9F9AB94.htm" />
+  <HelpKINode Title="CodedSerializationException.ToString method" Url="html/297086F6.htm" />
+  <HelpKINode Title="CodedSocketException class">
+    <HelpKINode Title="CodedSocketException Class" Url="html/C1E87991.htm" />
+    <HelpKINode Title="constructor" Url="html/5DE4EC33.htm" />
+    <HelpKINode Title="events" Url="html/E6372AD0.htm" />
+    <HelpKINode Title="methods" Url="html/FC434697.htm" />
+    <HelpKINode Title="properties" Url="html/2A1AC897.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedSocketException.CodedSocketException constructor" Url="html/5DE4EC33.htm" />
+  <HelpKINode Title="CodedSocketException.GetObjectData method" Url="html/A4F9B520.htm" />
+  <HelpKINode Title="CodedSocketException.SocketErrorCode property" Url="html/8C493408.htm" />
+  <HelpKINode Title="CodedSocketException.ToString method" Url="html/29F84781.htm" />
+  <HelpKINode Title="CodedTimeoutException class">
+    <HelpKINode Title="CodedTimeoutException Class" Url="html/8A43B31A.htm" />
+    <HelpKINode Title="constructor" Url="html/E13A8055.htm" />
+    <HelpKINode Title="events" Url="html/80BE5679.htm" />
+    <HelpKINode Title="methods" Url="html/D61CDDBC.htm" />
+    <HelpKINode Title="properties" Url="html/D44B5FD8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedTimeoutException.CodedTimeoutException constructor" Url="html/E13A8055.htm" />
+  <HelpKINode Title="CodedTimeoutException.ToString method" Url="html/73BFECAE.htm" />
+  <HelpKINode Title="CodedTypeLoadException class">
+    <HelpKINode Title="CodedTypeLoadException Class" Url="html/C4150A04.htm" />
+    <HelpKINode Title="constructor" Url="html/96565701.htm" />
+    <HelpKINode Title="events" Url="html/79FDE64B.htm" />
+    <HelpKINode Title="methods" Url="html/23A02DB2.htm" />
+    <HelpKINode Title="properties" Url="html/91F17C19.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedTypeLoadException.CodedTypeLoadException constructor" Url="html/96565701.htm" />
+  <HelpKINode Title="CodedTypeLoadException.ToString method" Url="html/57C53C42.htm" />
+  <HelpKINode Title="CodedXmlException class">
+    <HelpKINode Title="CodedXmlException Class" Url="html/EF237D56.htm" />
+    <HelpKINode Title="constructor" Url="html/853EEEA8.htm" />
+    <HelpKINode Title="events" Url="html/EF5DEA04.htm" />
+    <HelpKINode Title="methods" Url="html/CAB80230.htm" />
+    <HelpKINode Title="properties" Url="html/CA77A4C6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CodedXmlException.CodedXmlException constructor" Url="html/853EEEA8.htm" />
+  <HelpKINode Title="CodedXmlException.ToString method" Url="html/254C777D.htm" />
+  <HelpKINode Title="CreateToString method" Url="html/6D4C35D5.htm" />
+  <HelpKINode Title="Culture enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="Culture property" Url="html/2F4BE65E.htm" />
+  <HelpKINode Title="CustomHResultMask field" Url="html/D170445.htm" />
+  <HelpKINode Title="DirectoryName property" Url="html/9F9A7232.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="AssemblyDebugModeCache.Dispose Method " Url="html/9847533B.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.Dispose Method " Url="html/95076B54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumToInt32 method" Url="html/DF2C1A9F.htm" />
+  <HelpKINode Title="Equality operator" Url="html/E5B462A8.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="AssemblyDebugMode.Equals Method " Url="html/A34428D3.htm" />
+    <HelpKINode Title="AssemblyFacilityOverride.Equals Method " Url="html/B88FB9B8.htm" />
+    <HelpKINode Title="AssemblyIdentity.Equals Method " Url="html/8D16F4A3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorIdMask field" Url="html/A3B10AE2.htm" />
+  <HelpKINode Title="ExceptionExtensions class">
+    <HelpKINode Title="ExceptionExtensions Class" Url="html/686FEA2C.htm" />
+    <HelpKINode Title="methods" Url="html/64A5220B.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExceptionExtensions.GetErrorId method" Url="html/CBA4D9AF.htm" />
+  <HelpKINode Title="ExceptionExtensions.GetFacilityId method" Url="html/49118156.htm" />
+  <HelpKINode Title="ExceptionExtensions.IsCodedException method" Url="html/E986D86E.htm" />
+  <HelpKINode Title="ExceptionExtensions.IsCustomHResult method" Url="html/B96591C4.htm" />
+  <HelpKINode Title="FacilityId property" Url="html/43E85B8F.htm" />
+  <HelpKINode Title="FacilityIdMask field" Url="html/29A5E4A2.htm" />
+  <HelpKINode Title="FacilityIdShift field" Url="html/AF85739E.htm" />
+  <HelpKINode Title="FileName property">
+    <HelpKINode Title="CodedFileExistsException.FileName Property " Url="html/B8EB694.htm" />
+    <HelpKINode Title="CodedInvalidFileException.FileName Property " Url="html/92D6E0B8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Finalize method">
+    <HelpKINode Title="AssemblyDebugModeCache.Finalize Method " Url="html/A0F75341.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.Finalize Method " Url="html/5D44E961.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromApplicationConfiguration method">
+    <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromApplicationConfiguration Method " Url="html/8D903C3C.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromApplicationConfiguration Method " Url="html/F6BFF2C6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromAssembly method" Url="html/1BEEF453.htm" />
+  <HelpKINode Title="FromConfigurationSection method">
+    <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromConfigurationSection Method " Url="html/9EF3DD9C.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromConfigurationSection Method " Url="html/8BDFDF77.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromJson method">
+    <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromJson Method " Url="html/41A22750.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromJson Method " Url="html/6ED83177.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromType method" Url="html/60CC030D.htm" />
+  <HelpKINode Title="FromXml method">
+    <HelpKINode Title="AssemblyDebugModeCacheExtensions.FromXml Method " Url="html/FBADC6D5.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCacheExtensions.FromXml Method " Url="html/1BC646BC.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBaseHResult method" Url="html/752AB021.htm" />
+  <HelpKINode Title="GetErrorId method">
+    <HelpKINode Title="ExceptionExtensions.GetErrorId Method " Url="html/CBA4D9AF.htm" />
+    <HelpKINode Title="HResultHelper.GetErrorId Method " Url="html/7FA4D936.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetFacilityId method">
+    <HelpKINode Title="ExceptionExtensions.GetFacilityId Method " Url="html/49118156.htm" />
+    <HelpKINode Title="HResultHelper.GetFacilityId Method " Url="html/590466DC.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="AssemblyDebugMode.GetHashCode Method " Url="html/839D3914.htm" />
+    <HelpKINode Title="AssemblyFacilityOverride.GetHashCode Method " Url="html/D484AD5E.htm" />
+    <HelpKINode Title="AssemblyIdentity.GetHashCode Method " Url="html/2C5AFD0D.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetObjectData method">
+    <HelpKINode Title="CodedDirectoryNotFoundException.GetObjectData Method " Url="html/8B404ED5.htm" />
+    <HelpKINode Title="CodedFileExistsException.GetObjectData Method " Url="html/D319BE06.htm" />
+    <HelpKINode Title="CodedInvalidFileException.GetObjectData Method " Url="html/BC58434F.htm" />
+    <HelpKINode Title="CodedSocketException.GetObjectData Method " Url="html/A4F9B520.htm" />
+    <HelpKINode Title="InsufficientStorageSpaceException.GetObjectData Method " Url="html/E42FD848.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetPublicKeyToken method" Url="html/2356BE0.htm" />
+  <HelpKINode Title="Global property">
+    <HelpKINode Title="AssemblyDebugModeCache.Global Property " Url="html/9EA392CF.htm" />
+    <HelpKINode Title="AssemblyFacilityOverrideCache.Global Property " Url="html/3F8199A.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HexStringToByteArray method" Url="html/D6E0FFFB.htm" />
+  <HelpKINode Title="HResultBase field" Url="html/EFDBC5A4.htm" />
+  <HelpKINode Title="HResultHelper class">
+    <HelpKINode Title="HResultHelper Class" Url="html/35FD09E3.htm" />
+    <HelpKINode Title="fields" Url="html/A61EA720.htm" />
+    <HelpKINode Title="methods" Url="html/9778C184.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HResultHelper.CreateToString method" Url="html/6D4C35D5.htm" />
+  <HelpKINode Title="HResultHelper.CustomHResultMask field" Url="html/D170445.htm" />
+  <HelpKINode Title="HResultHelper.EnumToInt32 method" Url="html/DF2C1A9F.htm" />
+  <HelpKINode Title="HResultHelper.ErrorIdMask field" Url="html/A3B10AE2.htm" />
+  <HelpKINode Title="HResultHelper.FacilityIdMask field" Url="html/29A5E4A2.htm" />
+  <HelpKINode Title="HResultHelper.FacilityIdShift field" Url="html/AF85739E.htm" />
+  <HelpKINode Title="HResultHelper.GetBaseHResult method" Url="html/752AB021.htm" />
+  <HelpKINode Title="HResultHelper.GetErrorId method" Url="html/7FA4D936.htm" />
+  <HelpKINode Title="HResultHelper.GetFacilityId method" Url="html/590466DC.htm" />
+  <HelpKINode Title="HResultHelper.HexStringToByteArray method" Url="html/D6E0FFFB.htm" />
+  <HelpKINode Title="HResultHelper.HResultBase field" Url="html/EFDBC5A4.htm" />
+  <HelpKINode Title="HResultHelper.IsCustomHResult method" Url="html/3D1CD12.htm" />
+  <HelpKINode Title="Identifier property" Url="html/6D4264E0.htm" />
+  <HelpKINode Title="Inequality operator" Url="html/E5C2EB1D.htm" />
+  <HelpKINode Title="InsufficientStorageSpaceException class">
+    <HelpKINode Title="InsufficientStorageSpaceException Class" Url="html/F5DDAADF.htm" />
+    <HelpKINode Title="constructor" Url="html/AA3095B9.htm" />
+    <HelpKINode Title="events" Url="html/91EDEA5C.htm" />
+    <HelpKINode Title="methods" Url="html/2E66DB97.htm" />
+    <HelpKINode Title="properties" Url="html/F48F619A.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InsufficientStorageSpaceException.GetObjectData method" Url="html/E42FD848.htm" />
+  <HelpKINode Title="InsufficientStorageSpaceException.InsufficientStorageSpaceException constructor" Url="html/AA3095B9.htm" />
+  <HelpKINode Title="InsufficientStorageSpaceException.StoragePath property" Url="html/262573CF.htm" />
+  <HelpKINode Title="InsufficientStorageSpaceException.ToString method" Url="html/71CCF016.htm" />
+  <HelpKINode Title="IsCodedException method">
+    <HelpKINode Title="CodedExceptionAttribute.IsCodedException Method " Url="html/6DC690BB.htm" />
+    <HelpKINode Title="ExceptionExtensions.IsCodedException Method " Url="html/E986D86E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsCustomHResult method">
+    <HelpKINode Title="ExceptionExtensions.IsCustomHResult Method " Url="html/B96591C4.htm" />
+    <HelpKINode Title="HResultHelper.IsCustomHResult Method " Url="html/3D1CD12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsDebugModeEnabled method" Url="html/BCC0D6CF.htm" />
+  <HelpKINode Title="IsEnabled property" Url="html/D7B5202.htm" />
+  <HelpKINode Title="ISerializable.GetObjectData explicitly implemented method">
+    <HelpKINode Title="AssemblyDebugMode.ISerializable.GetObjectData Method " Url="html/FDBBD7E3.htm" />
+    <HelpKINode Title="AssemblyFacilityOverride.ISerializable.GetObjectData Method " Url="html/EB6EFA89.htm" />
+    <HelpKINode Title="AssemblyIdentity.ISerializable.GetObjectData Method " Url="html/EDB3E766.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsMatch method" Url="html/C3EF220F.htm" />
+  <HelpKINode Title="Match method" Url="html/8A71E359.htm" />
+  <HelpKINode Title="MaximumMatchValue field" Url="html/8C825526.htm" />
+  <HelpKINode Title="Name enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="Name property" Url="html/DFD73626.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions namespace" Url="html/21622989.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.AssemblyFacilityIdentifierAttribute class" Url="html/4D56FFE5.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedAggregateException class" Url="html/C6B92CA4.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedArgumentException class" Url="html/6C3A992D.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedArgumentNullException class" Url="html/D1BC8882.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedArgumentNullOrEmptyException class" Url="html/BEA1A75.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedArgumentNullOrWhiteSpaceException class" Url="html/6B50408E.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedArgumentOutOfRangeException class" Url="html/DF59B1A5.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedCommunicationException class" Url="html/4DB725A2.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedDataException class" Url="html/6302B905.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedException class" Url="html/1BE0BED3.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedExceptionAttribute class" Url="html/6655E511.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedFormatException class" Url="html/FDF71FAC.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedInvalidCastException class" Url="html/6DA125E7.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedInvalidOperationException class" Url="html/E192522E.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedNotSupportedException class" Url="html/F0862952.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedProtocolViolationException class" Url="html/B6948A6B.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedSerializationException class" Url="html/86688F5E.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedSocketException class" Url="html/C1E87991.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedTimeoutException class" Url="html/8A43B31A.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedTypeLoadException class" Url="html/C4150A04.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.CodedXmlException class" Url="html/EF237D56.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration namespace" Url="html/8C9A35B4.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyDebugMode class" Url="html/DBEBA58B.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyDebugModeCache class" Url="html/A1FE8B7B.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyDebugModeCacheExtensions class" Url="html/9917A8BE.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyFacilityOverride class" Url="html/791191EA.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyFacilityOverrideCache class" Url="html/AA4D2159.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyFacilityOverrideCacheExtensions class" Url="html/C32F001F.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyIdentity class" Url="html/4AE44CA0.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.Configuration.AssemblyIdentity.AssemblyNameElements enumeration" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.ExceptionExtensions class" Url="html/686FEA2C.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.HResultHelper class" Url="html/35FD09E3.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO namespace" Url="html/9AF19F68.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedDirectoryNotFoundException class" Url="html/CC15170D.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedFileExistsException class" Url="html/6F045504.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedFileNotFoundException class" Url="html/D6FF17E8.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedInvalidDataException class" Url="html/F124DA9E.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedInvalidFileException class" Url="html/37614AAD.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.CodedIOException class" Url="html/275A1C78.htm" />
+  <HelpKINode Title="NerdyDuck.CodedExceptions.IO.InsufficientStorageSpaceException class" Url="html/F5DDAADF.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="NoVersion enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="PublicKeyToken enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="SetPublicKeyToken method" Url="html/FC6B7988.htm" />
+  <HelpKINode Title="SocketErrorCode property" Url="html/8C493408.htm" />
+  <HelpKINode Title="StoragePath property" Url="html/262573CF.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="AssemblyIdentity.ToString Method " Url="html/D3B167C9.htm" />
+    <HelpKINode Title="CodedAggregateException.ToString Method " Url="html/90F8BD45.htm" />
+    <HelpKINode Title="CodedArgumentException.ToString Method " Url="html/BBF8E17B.htm" />
+    <HelpKINode Title="CodedArgumentNullException.ToString Method " Url="html/957B289C.htm" />
+    <HelpKINode Title="CodedArgumentNullOrEmptyException.ToString Method " Url="html/878898CD.htm" />
+    <HelpKINode Title="CodedArgumentNullOrWhiteSpaceException.ToString Method " Url="html/40888756.htm" />
+    <HelpKINode Title="CodedArgumentOutOfRangeException.ToString Method " Url="html/7BF45399.htm" />
+    <HelpKINode Title="CodedDataException.ToString Method " Url="html/3EBF4D89.htm" />
+    <HelpKINode Title="CodedDirectoryNotFoundException.ToString Method " Url="html/5A62F338.htm" />
+    <HelpKINode Title="CodedException.ToString Method " Url="html/AB1738C.htm" />
+    <HelpKINode Title="CodedFileExistsException.ToString Method " Url="html/D49AC90A.htm" />
+    <HelpKINode Title="CodedFileNotFoundException.ToString Method " Url="html/F5B28F11.htm" />
+    <HelpKINode Title="CodedFormatException.ToString Method " Url="html/35E5BFF6.htm" />
+    <HelpKINode Title="CodedInvalidCastException.ToString Method " Url="html/CC183D83.htm" />
+    <HelpKINode Title="CodedInvalidFileException.ToString Method " Url="html/A7788F78.htm" />
+    <HelpKINode Title="CodedInvalidOperationException.ToString Method " Url="html/3DFFDE26.htm" />
+    <HelpKINode Title="CodedIOException.ToString Method " Url="html/8F873301.htm" />
+    <HelpKINode Title="CodedNotSupportedException.ToString Method " Url="html/E0FE5B78.htm" />
+    <HelpKINode Title="CodedProtocolViolationException.ToString Method " Url="html/7414EC25.htm" />
+    <HelpKINode Title="CodedSerializationException.ToString Method " Url="html/297086F6.htm" />
+    <HelpKINode Title="CodedSocketException.ToString Method " Url="html/29F84781.htm" />
+    <HelpKINode Title="CodedTimeoutException.ToString Method " Url="html/73BFECAE.htm" />
+    <HelpKINode Title="CodedTypeLoadException.ToString Method " Url="html/57C53C42.htm" />
+    <HelpKINode Title="CodedXmlException.ToString Method " Url="html/254C777D.htm" />
+    <HelpKINode Title="InsufficientStorageSpaceException.ToString Method " Url="html/71CCF016.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGetOverride method" Url="html/F1B575DC.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.2" Url="html/6e6eae4c-e3bd-46ba-8ef1-7db33522a4f5.htm" />
+    <HelpKINode Title="1.0.3" Url="html/2d45a25e-8710-470c-9715-50a111064f7a.htm" />
+    <HelpKINode Title="1.1.0" Url="html/11370884-5f6a-47df-9b94-6cac5a1e0cb4.htm" />
+    <HelpKINode Title="1.1.1" Url="html/1837257e-2f48-4586-8ef9-6c3d7f5892b0.htm" />
+    <HelpKINode Title="1.1.2" Url="html/daa452b1-17a3-4d2d-84ec-af3ca09f1373.htm" />
+    <HelpKINode Title="1.2.0" Url="html/863d99b3-87f9-4b23-839e-2920d27fd1e2.htm" />
+    <HelpKINode Title="1.2.1" Url="html/2c32ffdc-9c04-46f7-8089-879aaaec49c0.htm" />
+    <HelpKINode Title="1.3.0" Url="html/a0f6da6a-bd73-43ef-96a8-8edb5d6abc57.htm" />
+    <HelpKINode Title="1.3.1" Url="html/0644f1eb-d669-4da1-9e3a-011694d9d9bd.htm" />
+    <HelpKINode Title="2.0.0" Url="html/cb866632-070c-4e0b-9ccf-691d57c3137e.htm" />
+    <HelpKINode Title="2.0.0" Url="html/259c6411-b4b5-445a-8994-01e9d01b3430.htm" />
+    <HelpKINode Title="history" Url="html/e66825f5-f0ae-41c6-9868-efa1f835ec66.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Version enumeration member" Url="html/EBF0A0C2.htm" />
+  <HelpKINode Title="Version property" Url="html/C1264232.htm" />
+  <HelpKINode Title="Welcome" Url="html/a51907b2-e4ee-453d-b3bc-3c2e2d93d14a.htm" />
+</HelpKI>
